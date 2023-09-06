@@ -32,7 +32,7 @@ News
 
 Publications
 ------
-1. Zheming Yang, Wen Ji, Qi Guo, and Zhi Wang. “JAVP: Joint-Aware Video Processing with Edge-Cloud Collaboration for DNN Inference”,  In ACM International Conference on Multimedia (MM), 2023.
+1. Zheming Yang, Wen Ji, Qi Guo, and Zhi Wang. “JAVP: Joint-Aware Video Processing with Edge-Cloud Collaboration for DNN Inference”,  <font color=Blue>ACM International Conference on Multimedia (MM)</font>, 2023.
 2. Zheming Yang, Dieli Hu, Qi Guo, Lulu Zuo, and Wen Ji. “Visual E2C: AI-driven Visual End-Edge-Cloud Architecture for 6G in Low-carbon Smart Cities”,  IEEE Wireless Communications, 2023, 30 (3), 204-210.
 3. Zheming Yang, Bing Liang, and Wen Ji. “An Intelligent End–Edge–Cloud Architecture for Visual IoT-Assisted Healthcare Systems”. IEEE Internet of Things Journal, 2021, 8(23): 16779-16786.
 4. Zheming Yang, and Wen Ji. “A Quality-Time Model of Heterogeneous Agents Measure for Crowd Intelligence”. IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA). IEEE, 2020, pp. 1264-1270.
