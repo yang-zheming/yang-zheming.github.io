@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "<center>Zheming Yang</center> <br> &ensp &ensp (杨哲铭)"
+  name             : "<center>Zheming Yang</center> <br> <center>(杨哲铭)</center> "
   avatar           : "profile.png"
-  bio              : "PhD Student"
+  bio              : "<center>PhD Student</center>"
   location         : "Beijing, China"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
