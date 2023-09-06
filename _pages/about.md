@@ -13,9 +13,9 @@ I am a Ph.D. student at the [Institute of Computing Technology, Chinese Academy 
 
 Research Interests
 ======
-* Multimedia System and Distributed Computing 
+* Multimedia System and Distributed Inference
 * End-Edge-Cloud Collaborative Optimization
-* Machine Learning and Artificial Intelligence
+* Design of Efficient Machine Learning System
 * Visual Internet of Things (V-IoT)
 
 
