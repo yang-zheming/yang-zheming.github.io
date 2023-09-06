@@ -1,6 +1,8 @@
 # main links links
 main: 
-
+  - title: "Full Publications"
+  #  url: /publications/
+  
   - title: "Honors and Awards"
     url: /honors/    
     
@@ -12,4 +14,3 @@ main:
 
   #- title: "CV"
    # url: /cv/
-    
