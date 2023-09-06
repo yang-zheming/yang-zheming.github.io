@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheming Yang (杨哲铭)"
+  name             : "Zheming Yang <br> (杨哲铭)"
   avatar           : "profile.png"
   bio              : "PhD Student"
   location         : "Beijing, China"
