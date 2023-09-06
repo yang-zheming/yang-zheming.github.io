@@ -13,6 +13,6 @@ Hobbies
 * Playing Badminton
 * Running
 * Traveling
-* Watching movies
+* Watching Movies
 
 
