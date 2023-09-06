@@ -12,8 +12,8 @@ redirect_from:
 
 Research Interests
 ======
-* Multimedia System and Optimization
-* End-Edge-Cloud Collaborative Computing
+* Multimedia System and Distributed Computing 
+* End-Edge-Cloud Collaborative Optimization
 * Machine Learning and Artificial Intelligence
 * Visual Internet of Things (V-IoT)
 
