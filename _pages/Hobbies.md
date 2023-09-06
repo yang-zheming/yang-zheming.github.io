@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /misc/
+permalink: /Hobbies/
 author_profile: true
 ---
 
