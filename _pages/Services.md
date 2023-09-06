@@ -5,17 +5,11 @@ permalink: /Services/
 author_profile: true
 ---
 
-
-Personal
+Academic Services
 ===
-I grew up in [Lanzhou](https://en.wikipedia.org/wiki/Lanzhou), Gansu in western China and spent 4 years in Hefei. I love these two cities.
-
-
-Interest
-===
-* Watching all kinds of sports games, especially basketball, football, and table tennis.
-* Warriors fans
-* Cooking
-* Traveler
+* The reviewer of ACM MM, IEEE ICME, IEEE WC, and IEEE VTM.
+* IEEE Digital Retina Systems Working Group (3161 WG), Voting Member.
+* IEEE Student Member.
+* China Computer Federation (CCF) Student Member.
 
 
