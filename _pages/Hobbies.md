@@ -12,6 +12,7 @@ Hobbies
 * Playing Table Tennis
 * Playing Badminton
 * Running
-* Traveler
+* Traveling
+* Watching movies
 
 
