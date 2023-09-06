@@ -1,11 +1,8 @@
 # main links links
 main:
      
-#  - title: "Honors and Awards"
- #   url: /publications/
-
- - title: "Honors and Awards"
-    url: /honors/
+- title: "Blog Posts"
+    url: /year-archive/
 
   - title: "Academic Services"
     url: /talks/    
