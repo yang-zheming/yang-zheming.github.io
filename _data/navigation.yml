@@ -5,10 +5,10 @@ main:
     url: /honors/    
     
   - title: "Academic Services"
-    url: /talks/    
+    url: /Services/    
 
   - title: "Hobbies"
-    url: /teaching/    
+    url: /Hobbies/    
 
   - title: "CV"
     url: /cv/
