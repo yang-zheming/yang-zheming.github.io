@@ -34,9 +34,14 @@ News
 
 Publications
 ------
-1. Zheming Yang, Dieli Hu, Qi Guo, Lulu Zuo, and Wen Ji. “Visual E2C: AI-driven Visual End-Edge-Cloud Architecture for 6G in Low-carbon Smart Cities”,  IEEE Wireless Communications, 2023, DOI:10.1109/MWC.019.2200518. （SCI一区, 影响因子:12.777）
-* Zheming Yang, Bing Liang, and Wen Ji. “An Intelligent End–Edge–Cloud Architecture for Visual IoT-Assisted Healthcare Systems”. IEEE Internet of Things Journal, 2021, 8(23): 16779-16786. （SCI一区, 影响因子:9.471）
-* Zheming Yang, and Wen Ji. “A Quality-Time Model of Heterogeneous Agents Measure for Crowd Intelligence”. IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA). IEEE, 2020, pp. 1264-1270.（CCF C类，EI 检索）
-* Zheming Yang, and Wen Ji. “A Universal Intelligence Measurement Method Based on Meta-analysis”. 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC). IEEE, 2019: 493-498. （EI 检索）
+1. Zheming Yang, Wen Ji, Qi Guo, and Zhi Wang. “JAVP: Joint-Aware Video Processing with Edge-Cloud Collaboration for DNN Inference”,  In ACM International Conference on Multimedia (MM), 2023.
+2. Zheming Yang, Dieli Hu, Qi Guo, Lulu Zuo, and Wen Ji. “Visual E2C: AI-driven Visual End-Edge-Cloud Architecture for 6G in Low-carbon Smart Cities”,  IEEE Wireless Communications, 2023, 30 (3), 204-210.
+3. Zheming Yang, Bing Liang, and Wen Ji. “An Intelligent End–Edge–Cloud Architecture for Visual IoT-Assisted Healthcare Systems”. IEEE Internet of Things Journal, 2021, 8(23): 16779-16786.
+4. Zheming Yang, and Wen Ji. “A Quality-Time Model of Heterogeneous Agents Measure for Crowd Intelligence”. IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA). IEEE, 2020, pp. 1264-1270.
+5. Zheming Yang, and Wen Ji. “A Universal Intelligence Measurement Method Based on Meta-analysis”. 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC). IEEE, 2019: 493-498. 
+6. Wen Ji, Bing Liang, Yuqin Wang, Rui Qiu and Zheming Yang. “Crowd V-IoE: Visual Internet of Everything Architecture in AI-Driven Fog Computing[J]”, IEEE Wireless Communications, 2020, 27(2): 51-57.
+7. Linqing Zhai, Zheming Yang, and Wen Ji. “Understanding Crowd Intelligence in Large-scale Systems: A Hierarchical Binary Particle Swarm Optimization Approach.”  IEEE ISPA. 2020,  pp. 728-735. 
+8. Hexiang Qiao, Zheming Yang, Bing Liang and Wen Ji. “Crowd Intelligence Empowered Video Transmission in Ultra-Low-Bandwidth Constrained Circumstances”, IEEE ISPA. 2020, pp. 721-727.
+
 
 
