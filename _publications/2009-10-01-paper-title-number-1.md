@@ -11,8 +11,4 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 This paper is about the number 1. The number 2 is left for future work.
 这篇论文是序号1。序号2留给以后的作品。
 
-* Director Excellence Scholarship of the Chinese Academy of Sciences, 2021
-* Three Good Student of the Chinese Academy of Sciences, 2021
-* IEEE ISPA Outstanding Paper Award, 2020
-* China National Scholarship, 2019
 
