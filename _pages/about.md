@@ -21,7 +21,7 @@ Research Interests
 Education
 ======
 * 2019.08 – Now, Institute of Computing Technology, Chinese Academy of Sciences, PhD in Computer Science.
-* 2023.10 – 2024.10, National University of Singapore (NUS), Visiting PhD Student, advisor: [Yang You](https://www.comp.nus.edu.sg/~youy/).
+* 2023.10 – 2024.10, National University of Singapore (NUS), Visiting Scholar, advisor: [Yang You](https://www.comp.nus.edu.sg/~youy/).
 * 2021.02 – 2022.08, Peng Cheng Laboratory， Visiting PhD Student.
 * 2015.09 – 2019.06, North China University of Science and Technology, B.Sc in Electronic Engineering.
 
