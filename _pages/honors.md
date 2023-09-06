@@ -6,16 +6,10 @@ author_profile: true
 ---
 
 
-Personal
+
+Honors and Awards
 ===
-I grew up in [Lanzhou](https://en.wikipedia.org/wiki/Lanzhou), Gansu in western China and spent 4 years in Hefei. I love these two cities.
-
-
-Interest
-===
-* Watching all kinds of sports games, especially basketball, football, and table tennis.
-* Warriors fans
-* Cooking
-* Traveler
-
-
+* Director Excellence Scholarship of the Chinese Academy of Sciences, 2021
+* Three Good Student of the Chinese Academy of Sciences, 2021
+* IEEE ISPA Outstanding Paper Award, 2020
+* China National Scholarship, 2019
