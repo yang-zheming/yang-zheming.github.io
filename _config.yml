@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheming Yang (杨哲铭)"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheming Yang"
+  name             : "Zheming Yang (杨哲铭)"
   avatar           : "profile.png"
   bio              : "PhD Student"
   location         : "Beijing, China"
