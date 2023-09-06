@@ -12,10 +12,10 @@ redirect_from:
 
 Research Interests
 ======
-* Multimedia System
-* Edge Intelligence
-* Machine Learning
-* Visual IoT
+* Multimedia System and Optimization
+* End-Edge-Cloud Collaborative Computing
+* Machine Learning and Artificial Intelligence
+* Visual Internet of Things (V-IoT)
 
 
 Education
