@@ -34,9 +34,9 @@ News
 
 Publications
 ------
-[1] Zheming Yang, Dieli Hu, Qi Guo, Lulu Zuo, and Wen Ji. “Visual E2C: AI-driven Visual End-Edge-Cloud Architecture for 6G in Low-carbon Smart Cities”,  IEEE Wireless Communications, 2023, DOI:10.1109/MWC.019.2200518. （SCI一区, 影响因子:12.777）
-[2] Zheming Yang, Bing Liang, and Wen Ji. “An Intelligent End–Edge–Cloud Architecture for Visual IoT-Assisted Healthcare Systems”. IEEE Internet of Things Journal, 2021, 8(23): 16779-16786. （SCI一区, 影响因子:9.471）
-[3] Zheming Yang, and Wen Ji. “A Quality-Time Model of Heterogeneous Agents Measure for Crowd Intelligence”. IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA). IEEE, 2020, pp. 1264-1270.（CCF C类，EI 检索）
-[4] Zheming Yang, and Wen Ji. “A Universal Intelligence Measurement Method Based on Meta-analysis”. 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC). IEEE, 2019: 493-498. （EI 检索）
+* Zheming Yang, Dieli Hu, Qi Guo, Lulu Zuo, and Wen Ji. “Visual E2C: AI-driven Visual End-Edge-Cloud Architecture for 6G in Low-carbon Smart Cities”,  IEEE Wireless Communications, 2023, DOI:10.1109/MWC.019.2200518. （SCI一区, 影响因子:12.777）
+* Zheming Yang, Bing Liang, and Wen Ji. “An Intelligent End–Edge–Cloud Architecture for Visual IoT-Assisted Healthcare Systems”. IEEE Internet of Things Journal, 2021, 8(23): 16779-16786. （SCI一区, 影响因子:9.471）
+* Zheming Yang, and Wen Ji. “A Quality-Time Model of Heterogeneous Agents Measure for Crowd Intelligence”. IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA). IEEE, 2020, pp. 1264-1270.（CCF C类，EI 检索）
+* Zheming Yang, and Wen Ji. “A Universal Intelligence Measurement Method Based on Meta-analysis”. 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC). IEEE, 2019: 493-498. （EI 检索）
 
 
