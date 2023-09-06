@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn/). I belong to the [MARVEL Group](https://www.labxing.com/marvel), advised by [Wen Ji](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201011/t20101123_3028148.html). The group focuses on multimedia systems, novel end-edge-cloud architectures, video transmission optimization, and machine-intelligent coding. I am now working on multimedia system optimization, edge intelligence, and machine learning. If you are seeking any form of academic cooperation, please feel free to email me at yangzheming19b@ict.ac.cn.
+I am a Ph.D. student at the [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn/). I belong to the [MARVEL Group](https://www.labxing.com/marvel), advised by [Wen Ji](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201011/t20101123_3028148.html). The group focuses on multimedia systems, novel end-edge-cloud architectures, video transmission optimization, and machine-intelligent coding. I am now working on multimedia system optimization, edge intelligence, and machine learning. If you are seeking any form of academic cooperation, please feel free to email me at [yangzheming19b@ict.ac.cn]().
  
 
 Research Interests
