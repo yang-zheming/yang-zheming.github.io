@@ -33,6 +33,7 @@ News
 <span style="color:blue">这是蓝色的文字</span>
 
 <p>包含 <span style="color:blue"><em>蓝色</em> 文字</span>的 Markdown 语句。</p>
+<font color=#0000FF >蓝色</font>
 
 Publications
 ------
