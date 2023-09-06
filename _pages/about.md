@@ -27,8 +27,8 @@ Education
 
 News
 ------
-* **2023.07.26**:  🎉🎉 Our paper *"JAVP: Joint-Aware Video Processing with Edge-Cloud Collaboration for DNN Inference"* has been accepted by ***ACM MM 2023***!
-* **2023.03.17**:  🎉🎉 Our paper *"Visual E2C: AI-Driven Visual End-Edge-Cloud Architecture for 6G in Low-Carbon Smart Cities"* has been accepted by ***IEEE Wireless Communications***!
+* **2023.07.26**:  🎉🎉 Our paper ***"JAVP: Joint-Aware Video Processing with Edge-Cloud Collaboration for DNN Inference"*** has been accepted by **ACM MM 2023**!
+* **2023.03.17**:  🎉🎉 Our paper *"Visual E2C: AI-Driven Visual End-Edge-Cloud Architecture for 6G in Low-Carbon Smart Cities"* has been accepted by **IEEE Wireless Communications**!
 
 
 
