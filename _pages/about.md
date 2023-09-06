@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I am pursuing a Ph.D. degree at the [Institute of Computing Technology, Chinese Academy of Sciences]([https://pages.github.com/](http://www.ict.ac.cn/)). My current research interests include Swarm Learning, Edge Intelligence, Intelligent Multimedia, Video Transmission, and Network Economics. My hobbies mainly include playing ping-pong, badminton, running, reading, watching movies, and traveling.
+ I am pursuing a Ph.D. degree at the [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn/). My current research interests include Swarm Learning, Edge Intelligence, Intelligent Multimedia, Video Transmission, and Network Economics. My hobbies mainly include playing ping-pong, badminton, running, reading, watching movies, and traveling.
 
 A data-driven personal website
 ======
