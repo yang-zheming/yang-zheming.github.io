@@ -36,7 +36,7 @@ News
 
 Publications
 ------
-1. **Zheming Yang**, Wen Ji, Qi Guo, and Zhi Wang. “JAVP: Joint-Aware Video Processing with Edge-Cloud Collaboration for DNN Inference”,  <font color=Blue>ACM International Conference on Multimedia (MM)</font>. 2023: 9152-9160. (**CCF A**) [[PDF](https://dl.acm.org/doi/abs/10.1145/3581783.3613914)]
+1. **Zheming Yang**, Wen Ji, Qi Guo, and Zhi Wang. “JAVP: Joint-Aware Video Processing with Edge-Cloud Collaboration for DNN Inference”,  <font color=Blue>ACM International Conference on Multimedia (MM)</font>. 2023: 9152-9160. (**CCF-A**) [[PDF](https://dl.acm.org/doi/abs/10.1145/3581783.3613914)]
 2. **Zheming Yang**, Dieli Hu, Qi Guo, Lulu Zuo, and Wen Ji. “Visual E<sup>2</sup>C: AI-driven Visual End-Edge-Cloud Architecture for 6G in Low-carbon Smart Cities”,   <font color=Blue>IEEE Wireless Communications</font>, 2023, 30 (3), 204-210. (**JCR-Q1 IF=12.9**) [[PDF](https://ieeexplore.ieee.org/abstract/document/10183805)]
 3. **Zheming Yang**, Bing Liang, and Wen Ji. “An Intelligent End–Edge–Cloud Architecture for Visual IoT-Assisted Healthcare Systems”. <font color=Blue>IEEE Internet of Things Journal</font>, 2021, 8(23): 16779-16786. (**JCR-Q1 IF=10.6**) [[PDF](https://ieeexplore.ieee.org/abstract/document/9328531)]
 4. **Zheming Yang**, and Wen Ji. “A Quality-Time Model of Heterogeneous Agents Measure for Crowd Intelligence”. <font color=Blue>IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA)</font>, 2020, pp. 1264-1270. [[PDF](https://ieeexplore.ieee.org/abstract/document/9443761)]
