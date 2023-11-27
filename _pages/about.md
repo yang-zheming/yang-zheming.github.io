@@ -23,7 +23,7 @@ Education
 ======
 * 2019.08 – Now, Institute of Computing Technology, Chinese Academy of Sciences, PhD in Computer Science.
 * 2023.10 – Now, National University of Singapore (NUS), Visiting Scholar, [High Performance Computing for Artificial Intelligence (HPC-AI) Lab](https://ai.comp.nus.edu.sg/), advised by [Yang You](https://www.comp.nus.edu.sg/~youy/).
-* 2021.02 – 2022.08, Peng Cheng Laboratory, Visiting PhD Student.
+* 2021.02 – 2022.08, Peng Cheng National Laboratory, Visiting PhD Student.
 * 2015.09 – 2019.06, North China University of Science and Technology, B.Sc in Electronic Engineering.
 
 
