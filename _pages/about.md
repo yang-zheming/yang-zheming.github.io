@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn/). I belong to the Multimedia Advanced Computing Group, advised by [Wen Ji](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201011/t20101123_3028148.html). The group focuses on multimedia systems, novel end-edge-cloud architectures, video transmission optimization, and machine-intelligent coding. I have an exchange visit to the [High Performance Computing for Artificial Intelligence (HPC-AI) Lab](https://ai.comp.nus.edu.sg/) at the National University of Singapore, advised by [Yang You](https://www.comp.nus.edu.sg/~youy/). I am now working on multimedia system optimization, edge intelligence, and machine learning. If you are seeking any form of academic cooperation, please feel free to email me at [yangzheming19b@ict.ac.cn]().
+I am a Ph.D. student at the [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn/). I belong to the Multimedia Advanced Computing Group, advised by [Wen Ji](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201011/t20101123_3028148.html). The group focuses on multimedia systems, novel end-edge-cloud architectures, video transmission optimization, and machine-intelligent coding. I have an exchange visit to the [High Performance Computing for Artificial Intelligence (HPC-AI) Lab](https://ai.comp.nus.edu.sg/) at the National University of Singapore, advised by [Yang You](https://www.comp.nus.edu.sg/~youy/). I am also actively involved in the standardization of the End-Edge-Cloud system. I am a member of the [IEEE Digital Retina Systems (3161 WG)](https://sagroups.ieee.org/3161/) Standards Working Group, which is the world's first international standards organization focused on end-edge-cloud systems. I am now working on multimedia system optimization, edge intelligence, and machine learning. If you are seeking any form of academic cooperation, please feel free to email me at [yangzheming19b@ict.ac.cn]().
  
 
 Research Interests
@@ -22,7 +22,7 @@ Research Interests
 Education
 ======
 * 2019.08 – Now, Institute of Computing Technology, Chinese Academy of Sciences, PhD in Computer Science.
-* 2023.10 – Now, National University of Singapore (NUS), Visiting Scholar, [High Performance Computing for Artificial Intelligence (HPC-AI) Lab](https://ai.comp.nus.edu.sg/), advised by [Yang You](https://www.comp.nus.edu.sg/~youy/).
+* 2023.10 – Now, National University of Singapore (NUS), Visiting Scholar.
 * 2021.02 – 2022.08, Peng Cheng National Laboratory, Visiting PhD Student.
 * 2015.09 – 2019.06, North China University of Science and Technology, B.Sc in Electronic Engineering.
 
