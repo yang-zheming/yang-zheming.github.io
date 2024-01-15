@@ -48,9 +48,4 @@ Publications
 10. Hexiang Qiao, **Zheming Yang**, Bing Liang, and Wen Ji. “Crowd Intelligence Empowered Video Transmission in Ultra-Low-Bandwidth Constrained Circumstances”. <font color=Blue>IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA)</font>, 2020, pp. 721-727. [[PDF](https://ieeexplore.ieee.org/abstract/document/9443904)]
 
 
-Standard Contributions
-------
-
-
-
 
