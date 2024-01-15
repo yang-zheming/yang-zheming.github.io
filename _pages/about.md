@@ -51,10 +51,10 @@ Publications
 
 Standard Contributions
 ------
-1. **Zheming Yang**, Wen Ji, Qi Guo, and Zhi Wang. “JAVP: Joint-Aware Video Processing with Edge-Cloud Collaboration for DNN Inference”.  <font color=Blue>ACM International Conference on Multimedia (MM)</font>. 2023: 9152-9160. (**CCF-A**) 
-2. **Zheming Yang**, Dieli Hu, Qi Guo, Lulu Zuo, and Wen Ji. “Visual E<sup>2</sup>C: AI-driven Visual End-Edge-Cloud Architecture for 6G in Low-carbon Smart Cities”. <font color=Blue>IEEE Wireless Communications</font>, 2023, 30 (3), 204-210. (**JCR-Q1 IF=12.9**) 
-3. **Zheming Yang**, Bing Liang, and Wen Ji. “An Intelligent End–Edge–Cloud Architecture for Visual IoT-Assisted Healthcare Systems”. <font color=Blue>IEEE Internet of Things Journal</font>, 2021, 8(23): 16779-16786. (**JCR-Q1 IF=10.6**) 
-4. **Zheming Yang**, and Wen Ji. “A Quality-Time Model of Heterogeneous Agents Measure for Crowd Intelligence”. <font color=Blue>IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA)</font>, 2020, pp. 1264-1270.
+1. **Zheming Yang**, Zheming Yang, Wen Ji, Yaowei Wang, Xinbei Bai, Yan Lan, Jinyu Yuan, Zhi Wang, Bo Shen, Bin Guo, Peng Yang, Chunhao Zhao, and Haojie Zhao, "Digital Retina System Evaluation Index System ". Digital Retina System Standards (DRS) document, AI M1686, 2023.03.
+2. **Zheming Yang**, Bing Liang, Wen Ji, Xinbei Bai, Yaowei Wang, Jinyu Yuan, and Zhi Wang, "Edge-Cloud Collaborative Processing and Task Migration for Digital Retina System". Digital Retina System Standards (DRS) document, AI M1630, 2022.06.
+3. Lulu Zuo, Wen Ji, Yaowei Wang, Dieli Hu, **Zheming Yang**, Haijun Liu, Xinbei Bai, Yan Lan, and Ying Wang, "End-Edge System Metrics and Evaluation Architecture". Digital Retina System Standards (DRS) document, AI M1869, 2023.12.
+4. Xinbei Bai, Chunhao Zhao, **Zheming Yang**, Yunhong Zhou, and Peng Chen, "Overall Collaborative Architecture and Capability Requirements for Digital Retina Systems". Digital Retina System Standards (DRS) document, AI M1680, 2022.12.
 
 
 
