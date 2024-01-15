@@ -14,3 +14,4 @@ Honors and Awards
 * Three Good Students of the Chinese Academy of Sciences, 2021
 * IEEE ISPA Outstanding Paper Award, 2020
 * China National Scholarship, 2019
+* First Prize in the Hebei Provincial Mathematics Competition, 2017
