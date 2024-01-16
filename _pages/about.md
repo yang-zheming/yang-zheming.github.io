@@ -51,10 +51,11 @@ Publications
 
 Standard Contributions
 ------
-1. **Zheming Yang**, Zheming Yang, Wen Ji, Yaowei Wang, Xinbei Bai, Yan Lan, Jinyu Yuan, Zhi Wang, Bo Shen, Bin Guo, Peng Yang, Chunhao Zhao, and Haojie Zhao, "Digital Retina System Evaluation Index System ". Digital Retina System Standards (DRS) document, AI M1686, 2023.03.
+1. **Zheming Yang**, Zheming Yang, Wen Ji, Yaowei Wang, Xinbei Bai, Yan Lan, Jinyu Yuan, Zhi Wang, Bo Shen, Bin Guo, Peng Yang, Chunhao Zhao, and Haojie Zhao, "Digital Retina System Evaluation Index System". Digital Retina System Standards (DRS) document, AI M1686, 2023.03.
 2. **Zheming Yang**, Bing Liang, Wen Ji, Xinbei Bai, Yaowei Wang, Jinyu Yuan, and Zhi Wang, "Edge-Cloud Collaborative Processing and Task Migration for Digital Retina System". Digital Retina System Standards (DRS) document, AI M1630, 2022.06.
-3. Lulu Zuo, Wen Ji, Yaowei Wang, Dieli Hu, **Zheming Yang**, Haijun Liu, Xinbei Bai, Yan Lan, and Ying Wang, "End-Edge System Metrics and Evaluation Architecture". Digital Retina System Standards (DRS) document, AI M1869, 2023.12.
-4. Xinbei Bai, Chunhao Zhao, **Zheming Yang**, Yunhong Zhou, and Peng Chen, "Overall Collaborative Architecture and Capability Requirements for Digital Retina Systems". Digital Retina System Standards (DRS) document, AI M1680, 2022.12.
+3. Bo Shen, Bin Guo, Wen Ji, **Zheming Yang**, Yinglai Xi, Yaowei Wang, Xinbei Bai, and Jinyu Yuan, "Cloud Subsystem Functional Architecture and Functional Requirements". Digital Retina System Standards (DRS) document, AI M1910, 2023.12.
+4. Lulu Zuo, Wen Ji, Yaowei Wang, Dieli Hu, **Zheming Yang**, Haijun Liu, Xinbei Bai, Yan Lan, and Ying Wang, "End-Edge System Metrics and Evaluation Architecture". Digital Retina System Standards (DRS) document, AI M1869, 2023.12.
+5. Xinbei Bai, Chunhao Zhao, **Zheming Yang**, Yunhong Zhou, and Peng Chen, "Overall Collaborative Architecture and Capability Requirements for Digital Retina Systems". Digital Retina System Standards (DRS) document, AI M1680, 2022.12.
 
 
 
