@@ -12,8 +12,8 @@ main:
   - title: "Hobbies"
     url: /Hobbies/    
 
-  - title: "Photograph"
-    url: /talks/    
+  # - title: "Photograph"
+  #   url: /talks/    
 
 
   #- title: "CV"
