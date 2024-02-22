@@ -15,7 +15,7 @@ Hobbies
 
 
 <center>
-   <img src="https://raw.githubusercontent.com/yang-zheming/yang-zheming.github.io/master/_pages/images/1.jpg" width="43%"> <img src="https://raw.githubusercontent.com/yang-zheming/yang-zheming.github.io/master/_pages/images/3.jpg
+   <img src="https://raw.githubusercontent.com/yang-zheming/yang-zheming.github.io/master/_pages/images/1.jpg" width="42%"> <img src="https://raw.githubusercontent.com/yang-zheming/yang-zheming.github.io/master/_pages/images/3.jpg
 " width="40%">
 </center>
 
