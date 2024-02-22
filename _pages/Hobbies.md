@@ -14,6 +14,6 @@ Hobbies
 
 
 
-<center class="half">
-    <img src="![83cd53d5a66a0bfae17ba5c40c8955e](https://github.com/yang-zheming/yang-zheming.github.io/assets/35208852/e2aae6cb-812a-498f-b029-1859a1045f38)" width="200"/><img src="![12fb610ecaf22470e85e49694de389a](https://github.com/yang-zheming/yang-zheming.github.io/assets/35208852/320909a5-2e95-4958-b22e-fbd470716208)"/>
-</center>
+
+https://github.com/yang-zheming/yang-zheming.github.io/assets/35208852/e2aae6cb-812a-498f-b029-1859a1045f38
+                                                                                                                                                        https://github.com/yang-zheming/yang-zheming.github.io/assets/35208852/320909a5-2e95-4958-b22e-fbd470716208
