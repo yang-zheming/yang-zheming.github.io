@@ -18,14 +18,17 @@ Hobbies
 " width="40%">
 </center>
 
+
 <center>
-   <img src="https://raw.githubusercontent.com/yang-zheming/yang-zheming.github.io/master/_pages/images/2.jpg" width="37%"> <img src="https://raw.githubusercontent.com/yang-zheming/yang-zheming.github.io/master/_pages/images/4.jpg
+   <img src="https://raw.githubusercontent.com/yang-zheming/yang-zheming.github.io/master/_pages/images/2.jpg" width="40%"> <img src="https://raw.githubusercontent.com/yang-zheming/yang-zheming.github.io/master/_pages/images/4.jpg
 " width="40%">
 </center>
 
+
 <center>
-   <img src="https://raw.githubusercontent.com/yang-zheming/yang-zheming.github.io/master/_pages/images/6.jpg" width="25%"> <img src="https://raw.githubusercontent.com/yang-zheming/yang-zheming.github.io/master/_pages/images/5.jpg" width="25%"> <img src="https://raw.githubusercontent.com/yang-zheming/yang-zheming.github.io/master/_pages/images/7.jpg" width="25%">
+   <img src="https://raw.githubusercontent.com/yang-zheming/yang-zheming.github.io/master/_pages/images/6.jpg" width="26%"> <img src="https://raw.githubusercontent.com/yang-zheming/yang-zheming.github.io/master/_pages/images/5.jpg" width="26%"> <img src="https://raw.githubusercontent.com/yang-zheming/yang-zheming.github.io/master/_pages/images/7.jpg" width="26%">
 </center>
+
 
 <center>
    <img src="https://raw.githubusercontent.com/yang-zheming/yang-zheming.github.io/master/_pages/images/8.jpg" width="40%"> <img src="https://raw.githubusercontent.com/yang-zheming/yang-zheming.github.io/master/_pages/images/9.jpg
