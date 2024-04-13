@@ -41,6 +41,8 @@ Publications
 1. **Zheming Yang**, Qi Guo, Zhi Wang, and Yang You. “Collaborative Inference Scheduling Framework with Multiscale Complexity-Aware for Edge-Cloud Systems”.  <font color=Blue>IEEE Transactions on Mobile Computing (TMC)</font>.
 2. **Zheming Yang**, Wen Ji, Zhi Wang, and Yang You. “AMMInfer: Adaptive Multi-Model Inference with Robust Optimization in Edge-Cloud Systems”.  <font color=Blue>ACM International Conference on Multimedia (MM)</font>.
 3. **Zheming Yang**, Wen Ji, Xiaowei Li, Xuanlei Zhao, and Yang You. “CDIO: Cross-Domain Inference Optimization with Resource Preference Prediction for Edge-Cloud Collaboration”.  <font color=Blue>ACM International Conference on Multimedia (MM)</font>.
+4. Xuanlei Zhao, Shenggan Cheng, Zangwei Zheng, **Zheming Yang**, Ziming Liu, and Yang You. “DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers”.  <font color=Blue>arXiv preprint arXiv:2403.10266, 2024</font>.
+5. Yi Zhao, Juepeng Zheng, Guowen Li, Yushan Lai, Kangrui Du, Lixian Zhang, Runmin Dong, Jinxiao Zhang, Mengxuan Chen, Wayne Zhang, Litong Feng, **Zheming Yang**, Chaoyu Gong, Yang You and Haohuan Fu. “Learning Global Land Cover Mapping Through a Highly-Scalable Weakly-Supervised Method”.  <font color=Blue>International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)</font>.
 
 
 
