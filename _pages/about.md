@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn/). I belong to the Multimedia Advanced Computing Group, advised by [Wen Ji](http://www.ict.ac.cn/sourcedb_ict_cas/cn/jssrck/201011/t20101123_3028148.html). The group focuses on multimedia systems, novel end-edge-cloud architectures, video transmission optimization, and machine-intelligent coding. I have an exchange visit to the [High Performance Computing for Artificial Intelligence (HPC-AI) Lab](https://ai.comp.nus.edu.sg/) at the National University of Singapore, advised by [Yang You](https://www.comp.nus.edu.sg/~youy/). I am also actively involved in the standardization of the End-Edge-Cloud system. I am a member of the [IEEE Digital Retina Systems (3161 WG)](https://sagroups.ieee.org/3161/) Standards Working Group, which is the world's first international standards organization focused on end-edge-cloud systems. I am now working on multimedia system optimization, edge intelligence, and machine learning. If you are seeking any form of academic cooperation, please feel free to email me at [yangzheming19b@ict.ac.cn]().
+I am a Ph.D. student at the [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn/). I belong to the Multimedia Advanced Computing Group, advised by [Wen Ji](https://ict.cas.cn/sourcedb/cn/jssrck/201011/t20101123_3028148.html). The group focuses on multimedia systems, novel end-edge-cloud architectures, video transmission optimization, and machine-intelligent coding. I have an exchange visit to the [High Performance Computing for Artificial Intelligence (HPC-AI) Lab](https://ai.comp.nus.edu.sg/) at the National University of Singapore, advised by [Yang You](https://www.comp.nus.edu.sg/~youy/). I am also actively involved in the standardization of the End-Edge-Cloud system. I am a member of the [IEEE Digital Retina Systems (3161 WG)](https://sagroups.ieee.org/3161/) Standards Working Group, which is the world's first international standards organization focused on end-edge-cloud systems. I am now working on multimedia system optimization, edge intelligence, and machine learning. If you are seeking any form of academic cooperation, please feel free to email me at [yangzheming19b@ict.ac.cn]().
  
 
 Research Interests
@@ -37,6 +37,14 @@ News
 
 Publications
 ------
+* **Under Review**
+1. **Zheming Yang**, Qi Guo, Zhi Wang, and Yang You. “Collaborative Inference Scheduling Framework with Multiscale Complexity-Aware for Edge-Cloud Systems”.  <font color=Blue>IEEE Transactions on Mobile Computing (TMC)</font>.
+2. **Zheming Yang**, Wen Ji, Zhi Wang, and Yang You. “AMMInfer: Adaptive Multi-Model Inference with Robust Optimization in Edge-Cloud Systems”.  <font color=Blue>ACM International Conference on Multimedia (MM)</font>.
+3. **Zheming Yang**, Wen Ji, Xiaowei Li, Xuanlei Zhao, and Yang You. “CDIO: Cross-Domain Inference Optimization with Resource Preference Prediction for Edge-Cloud Collaboration”.  <font color=Blue>ACM International Conference on Multimedia (MM)</font>.
+
+
+
+* **Selected Published**
 1. **Zheming Yang**, Wen Ji, and Zhi Wang. “Adaptive Joint Configuration Optimization for Collaborative Inference in Edge-Cloud Systems”.  <font color=Blue>Science China-Information Sciences</font>, 2024. (**CCF-A**)
 2. **Zheming Yang**, Lulu Zuo, and Wen Ji. “Joint Optimization Method for Node Deployment and Resource Allocation Based on End-Edge Collaboration”.  <font color=Blue>Computer Science</font>, 2024. (**CCF-B**)
 3. **Zheming Yang**, Wen Ji, Qi Guo, and Zhi Wang. “JAVP: Joint-Aware Video Processing with Edge-Cloud Collaboration for DNN Inference”.  <font color=Blue>ACM International Conference on Multimedia (MM)</font>. 2023: 9152-9160. (**CCF-A**) [[PDF](https://dl.acm.org/doi/abs/10.1145/3581783.3613914)]
