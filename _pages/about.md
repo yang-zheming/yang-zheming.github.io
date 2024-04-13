@@ -38,7 +38,7 @@ News
 Publications
 ------
 * **Under Review**
-1. **Zheming Yang**, Qi Guo, Zhi Wang, and Yang You. “Collaborative Inference Scheduling Framework with Multiscale Complexity-Aware for Edge-Cloud Systems”.  <font color=Blue>IEEE Transactions on Mobile Computing (TMC)</font>.
+1. **Zheming Yang**, Wen Ji, Qi Guo, Zhi Wang, and Yang You. “Collaborative Inference Scheduling Framework with Multiscale Complexity-Aware for Edge-Cloud Systems”.  <font color=Blue>IEEE Transactions on Mobile Computing (TMC)</font>.
 2. **Zheming Yang**, Wen Ji, Lulu Zuo, Chang Zhao, Zhi Wang, Shenggan Cheng, Ziming Liu, and Yang You. “AMMInfer: Adaptive Multi-Model Inference with Robust Optimization in Edge-Cloud Systems”.  <font color=Blue>ACM International Conference on Multimedia (MM)</font>.
 3. **Zheming Yang**, Wen Ji, Wen Ji, Qi Guo, Dieli Hu, Chang Zhao, Xiaowei Li, Xuanlei Zhao, Yi Zhao, Chaoyu Gong, and Yang You. “CDIO: Cross-Domain Inference Optimization with Resource Preference Prediction for Edge-Cloud Collaboration”.  <font color=Blue>ACM International Conference on Multimedia (MM)</font>.
 4. Xuanlei Zhao, Shenggan Cheng, Zangwei Zheng, **Zheming Yang**, Ziming Liu, and Yang You. “DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers”.  <font color=Blue>arXiv preprint arXiv:2403.10266</font>.
