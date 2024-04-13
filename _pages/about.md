@@ -30,10 +30,13 @@ Education
 
 News
 ------
-* **2024.02.19**:  🎉🎉 Our paper ***"Adaptive Joint Configuration Optimization for Collaborative Inference in Edge-Cloud Systems"*** has been accepted by  <font color=Blue>Science China-Information Sciences</font>!
-* **2023.07.26**:  🎉🎉 Our paper ***"JAVP: Joint-Aware Video Processing with Edge-Cloud Collaboration for DNN Inference"*** has been accepted by  <font color=Blue>ACM MM 2023</font>!
-* **2023.03.17**:  🎉🎉 Our paper ***"Visual E<sup>2</sup>C: AI-Driven Visual End-Edge-Cloud Architecture for 6G in Low-Carbon Smart Cities"*** has been accepted by  <font color=Blue>IEEE Wireless Communications</font>!
+* **2024.02**:  🎉🎉 Our paper ***"Adaptive Joint Configuration Optimization for Collaborative Inference in Edge-Cloud Systems"*** has been accepted by  <font color=Blue>Science China-Information Sciences</font>!
+* **2023.07**:  🎉🎉 Our paper ***"JAVP: Joint-Aware Video Processing with Edge-Cloud Collaboration for DNN Inference"*** has been accepted by  <font color=Blue>ACM MM 2023</font>!
+* **2023.03**:  🎉🎉 Our paper ***"Visual E<sup>2</sup>C: AI-Driven Visual End-Edge-Cloud Architecture for 6G in Low-Carbon Smart Cities"*** has been accepted by  <font color=Blue>IEEE Wireless Communications</font>!
+* **2021.01**:  🎉🎉 Our paper ***"An Intelligent End–Edge–Cloud Architecture for Visual IoT-Assisted Healthcare Systems"*** has been accepted by  <font color=Blue>IEEE Internet of Things Journal</font>!
+* **2020.12**:  🎉🎉 Our paper won the <font color=Blue>IEEE ISPA Outstanding Paper Award</font>!
 
+ 
 
 Publications
 ------
