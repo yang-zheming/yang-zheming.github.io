@@ -47,6 +47,7 @@ Publications
 4. **Zheming Yang**, Yuanhao Yang, Chang Zhao, Qi Guo, Wenkai He, and Wen Ji. “PerLLM: Personalized Inference Scheduling with Edge-Cloud Collaboration for Diverse LLM Services”. <font color=Blue>arXiv preprint arXiv:2405.14636</font>.
 5. Xuanlei Zhao, Shenggan Cheng, Zangwei Zheng, **Zheming Yang**, Ziming Liu, and Yang You. “DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers”.  <font color=Blue>arXiv preprint arXiv:2403.10266</font>.
 6. Yi Zhao, Juepeng Zheng, Guowen Li, Yushan Lai, Kangrui Du, Lixian Zhang, Runmin Dong, Jinxiao Zhang, Mengxuan Chen, Wayne Zhang, Litong Feng, **Zheming Yang**, Chaoyu Gong, Yang You and Haohuan Fu. “Learning Global Land Cover Mapping Through a Highly-Scalable Weakly-Supervised Method”.
+7. Wenkai He, Xiaqing Li, Peiyi Han, Rui Zhang, Yifan Hao, Yuanbo Wen, **Zheming Yang**, Xing Hu, Zidong Du, and Qi Guo. “GM<sup>2</sup>: Generalizing Pre-Routing Static Timing Analysis Across Multiple Design Modes by Incorporating Customized Features”.
 
 
 
