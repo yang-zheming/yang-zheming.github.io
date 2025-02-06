@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/f54e6dc9-9ad7-4632-ad93-0e11a665d72d)---
 permalink: /
 title: "About Me"
 excerpt: "About me"
@@ -12,7 +12,7 @@ I am currently an assistant professor at the Intelligent Processor Research Cent
 
 My research interests include multimedia systems, edge/cloud computing, LLM inference optimization, and efficient AI system design. I have served as a reviewer of ACM MM, NeurIPS, ICML, ICLR, AISTATS, lEEE Transactions on ETCl, lEEE Vehicular Technology Magazine, etc. I am also actively involved in the standardization of the End-Edge-Cloud system. I am a member of the [IEEE Digital Retina Systems (3161 WG)](https://sagroups.ieee.org/3161/) Standards Working Group, which is the world's first international standards organization focused on vision end-edge-cloud systems.
 
-**Long term: I am looking for self-driven visiting undergraduate, master, and PhD students, feel free to contact me at [yangzheming@ict.ac.cn]() if interested in my research.**
+***Long term: I am looking for self-driven visiting undergraduate, master, and PhD students, feel free to contact me at [yangzheming@ict.ac.cn]() if interested in my research.***
 
 
 <!-- I am a Ph.D. student at the [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn/). I belong to the Multimedia Advanced Computing Group, advised by [Wen Ji](https://ict.cas.cn/sourcedb/cn/jssrck/201011/t20101123_3028148.html). The group focuses on multimedia systems, novel end-edge-cloud architectures, video transmission optimization, and machine-intelligent coding. I have an exchange visit to the [High Performance Computing for Artificial Intelligence (HPC-AI) Lab](https://ai.comp.nus.edu.sg/) at the National University of Singapore, advised by [Yang You](https://www.comp.nus.edu.sg/~youy/). I am also actively involved in the standardization of the End-Edge-Cloud system. I am a member of the [IEEE Digital Retina Systems (3161 WG)](https://sagroups.ieee.org/3161/) Standards Working Group, which is the world's first international standards organization focused on vision end-edge-cloud systems. I am now working on multimedia system optimization, edge intelligence, and machine learning. If you are seeking any form of academic cooperation, please feel free to email me at [yangzheming@ict.ac.cn](). -->
@@ -27,13 +27,14 @@ Research Interests
 * Multimedia System and Distributed Inference
 * End-Edge-Cloud Collaborative Optimization
 * Design of Efficient Machine Learning System
+* LLM Inference Optimization
 * Visual Internet of Things (V-IoT)
 
 
 Education
 ======
-* 2019.08 – Now, Institute of Computing Technology, Chinese Academy of Sciences, PhD in Computer Science.
-* 2023.10 – Now, National University of Singapore (NUS), Visiting Scholar.
+* 2019.09 – 2024.12, Institute of Computing Technology, Chinese Academy of Sciences, PhD in Computer Science.
+* 2023.10 – 2024.09, National University of Singapore (NUS), Visiting Scholar.
 * 2021.02 – 2022.08, Peng Cheng National Laboratory, Visiting PhD Student.
 * 2018.01 – 2018.02, Peking University, Research Intern.
 * 2015.09 – 2019.06, North China University of Science and Technology, B.Sc in Electronic Engineering.
@@ -41,6 +42,7 @@ Education
 
 News
 ------
+* **[2024.11]**:  🎉🎉 Our paper *"MSBA: Adaptive Multi-Stream Data Transmission Method with Bandwidth Awareness for End-Cloud Systems"*  won the **<font color=Blue>IFTC Best Paper Award</font>**!
 * **[2024.02]**:  🎉🎉 Our paper *"Adaptive Joint Configuration Optimization for Collaborative Inference in Edge-Cloud Systems"* has been accepted by  <font color=Blue>Science China-Information Sciences</font>!
 * **[2023.07]**:  🎉🎉 Our paper *"JAVP: Joint-Aware Video Processing with Edge-Cloud Collaboration for DNN Inference"* has been accepted by  <font color=Blue>ACM MM 2023</font>!
 * **[2023.03]**:  🎉🎉 Our paper *"Visual E<sup>2</sup>C: AI-Driven Visual End-Edge-Cloud Architecture for 6G in Low-Carbon Smart Cities"* has been accepted by  <font color=Blue>IEEE Wireless Communications</font>!
@@ -52,13 +54,11 @@ News
 Publications
 ------
 * **Under Review**
-1. **Zheming Yang**, Wen Ji, Qi Guo, Zhi Wang, and Yang You. “Collaborative Inference Scheduling Framework with Multiscale Complexity-Aware for Edge-Cloud Systems”.
-2. **Zheming Yang**, Wen Ji, Lulu Zuo, Chang Zhao, Zhi Wang, Shenggan Cheng, Ziming Liu, and Yang You. “AMMInfer: Adaptive Multi-Model Inference with Robust Optimization in Edge-Cloud Systems”. 
-3. **Zheming Yang**, Wen Ji, Wen Ji, Qi Guo, Dieli Hu, Chang Zhao, Xiaowei Li, Xuanlei Zhao, Yi Zhao, Chaoyu Gong, and Yang You. “CDIO: Cross-Domain Inference Optimization with Resource Preference Prediction for Edge-Cloud Collaboration”. 
-4. **Zheming Yang**, Yuanhao Yang, Chang Zhao, Qi Guo, Wenkai He, and Wen Ji. “PerLLM: Personalized Inference Scheduling with Edge-Cloud Collaboration for Diverse LLM Services”. <font color=Blue>arXiv preprint arXiv:2405.14636</font>.
-5. Xuanlei Zhao, Shenggan Cheng, Zangwei Zheng, **Zheming Yang**, Ziming Liu, and Yang You. “DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers”.  <font color=Blue>arXiv preprint arXiv:2403.10266</font>.
-6. Yi Zhao, Juepeng Zheng, Guowen Li, Yushan Lai, Kangrui Du, Lixian Zhang, Runmin Dong, Jinxiao Zhang, Mengxuan Chen, Wayne Zhang, Litong Feng, **Zheming Yang**, Chaoyu Gong, Yang You and Haohuan Fu. “Learning Global Land Cover Mapping Through a Highly-Scalable Weakly-Supervised Method”.
-7. Wenkai He, Xiaqing Li, Peiyi Han, Rui Zhang, Yifan Hao, Yuanbo Wen, **Zheming Yang**, Xing Hu, Zidong Du, and Qi Guo. “GM<sup>2</sup>: Generalizing Pre-Routing Static Timing Analysis Across Multiple Design Modes by Incorporating Customized Features”.
+1. **Zheming Yang**, Wen Ji, Wen Ji, Qi Guo, Dieli Hu, Chang Zhao, Xiaowei Li, Xuanlei Zhao, Yi Zhao, Chaoyu Gong, and Yang You. “CDIO: Cross-Domain Inference Optimization with Resource Preference Prediction for Edge-Cloud Collaboration”. 
+2. **Zheming Yang**, Yuanhao Yang, Chang Zhao, Qi Guo, Wenkai He, and Wen Ji. “PerLLM: Personalized Inference Scheduling with Edge-Cloud Collaboration for Diverse LLM Services”. <font color=Blue>arXiv preprint arXiv:2405.14636</font>.
+3. Xuanlei Zhao, Shenggan Cheng, Zangwei Zheng, **Zheming Yang**, Ziming Liu, and Yang You. “DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers”.  <font color=Blue>arXiv preprint arXiv:2403.10266</font>.
+4. Yi Zhao, Juepeng Zheng, Guowen Li, Yushan Lai, Kangrui Du, Lixian Zhang, Runmin Dong, Jinxiao Zhang, Mengxuan Chen, Wayne Zhang, Litong Feng, **Zheming Yang**, Chaoyu Gong, Yang You and Haohuan Fu. “Learning Global Land Cover Mapping Through a Highly-Scalable Weakly-Supervised Method”.
+5. Wenkai He, Xiaqing Li, Peiyi Han, Rui Zhang, Yifan Hao, Yuanbo Wen, **Zheming Yang**, Xing Hu, Zidong Du, and Qi Guo. “GM<sup>2</sup>: Generalizing Pre-Routing Static Timing Analysis Across Multiple Design Modes by Incorporating Customized Features”.
 
 
 
