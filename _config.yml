@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "<center>Zheming Yang</center> <br> <center>(杨哲铭)</center> "
   avatar           : "profile.png"
-  bio              : "<center>PhD Student</center>"
+  bio              : "<center>Assistant Professor</center>"
   location         : "Beijing, China"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=puh6OUkAAAAJ&hl=zh-CN"
-  email            : yangzheming19b@ict.ac.cn
+  email            : yangzheming@ict.ac.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
