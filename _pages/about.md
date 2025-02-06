@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f54e6dc9-9ad7-4632-ad93-0e11a665d72d)---
+
 permalink: /
 title: "About Me"
 excerpt: "About me"
@@ -42,6 +42,7 @@ Education
 
 News
 ------
+* **[2024.11]**:  🎉🎉 Our paper *"MSBA: Adaptive Multi-Stream Data Transmission Method with Bandwidth Awareness for End-Cloud Systems"*  won the **<font color=Blue>IFTC Best Paper Award</font>**!
 * **[2024.02]**:  🎉🎉 Our paper *"Adaptive Joint Configuration Optimization for Collaborative Inference in Edge-Cloud Systems"* has been accepted by  <font color=Blue>Science China-Information Sciences</font>!
 * **[2023.07]**:  🎉🎉 Our paper *"JAVP: Joint-Aware Video Processing with Edge-Cloud Collaboration for DNN Inference"* has been accepted by  <font color=Blue>ACM MM 2023</font>!
 * **[2023.03]**:  🎉🎉 Our paper *"Visual E<sup>2</sup>C: AI-Driven Visual End-Edge-Cloud Architecture for 6G in Low-Carbon Smart Cities"* has been accepted by  <font color=Blue>IEEE Wireless Communications</font>!
