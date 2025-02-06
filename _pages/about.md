@@ -64,7 +64,7 @@ Publications
 
 * **Selected Published**
 1. **Zheming Yang**, Wen Ji, and Zhi Wang. “Adaptive Joint Configuration Optimization for Collaborative Inference in Edge-Cloud Systems”.  <font color=Blue>Science China-Information Sciences</font>, 2024. (**CCF-A**)
-2. Wen Ji, **Zheming Yang***, Zhi Wang, Bin Guo, and Bo Shen. Visual End-Edge-Cloud Fusion Architecture: Key Technologies of Future Super Metropolitan Clusters (in Chinese). Sci Sin Inform, 2024, 54: 2518–2532.  (**CCF-A**)
+2. Wen Ji, **Zheming Yang***, Zhi Wang, Bin Guo, and Bo Shen. Visual End-Edge-Cloud Fusion Architecture: Key Technologies of Future Super Metropolitan Clusters (in Chinese). Sci Sin Inform, 2024, 54: 2518–2532.  (**CCF-A, First Student Author**)
 3. **Zheming Yang**, Lulu Zuo, and Wen Ji. “Joint Optimization Method for Node Deployment and Resource Allocation Based on End-Edge Collaboration”.  <font color=Blue>Computer Science</font>, 2024. (**CCF-B**)
 4. **Zheming Yang**, Wen Ji, Qi Guo, and Zhi Wang. “JAVP: Joint-Aware Video Processing with Edge-Cloud Collaboration for DNN Inference”.  <font color=Blue>ACM International Conference on Multimedia (MM)</font>. 2023: 9152-9160. (**CCF-A**) [[PDF](https://dl.acm.org/doi/abs/10.1145/3581783.3613914)]
 5. **Zheming Yang**, Dieli Hu, Qi Guo, Lulu Zuo, and Wen Ji. “Visual E<sup>2</sup>C: AI-driven Visual End-Edge-Cloud Architecture for 6G in Low-carbon Smart Cities”. <font color=Blue>IEEE Wireless Communications</font>, 2023, 30 (3), 204-210. (**JCR-Q1 IF=12.9**) [[PDF](https://ieeexplore.ieee.org/abstract/document/10183805)]
