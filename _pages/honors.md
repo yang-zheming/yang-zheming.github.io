@@ -9,10 +9,9 @@ author_profile: true
 
 Honors and Awards
 ===
+* IFTC Best Paper Award, 2024
+* CCF HPC China Outstanding Paper Award, 2024
+* China National Scholarship, 2024
 * Chinese Academy of Sciences “Zhu Li Yuehua” Scholarship, 2023
-* Chinese Academy of Sciences First Class Scholarship, 2023
 * Director Excellence Scholarship of the Chinese Academy of Sciences, 2021
-* Three Good Students of the Chinese Academy of Sciences, 2021
 * IEEE ISPA Outstanding Paper Award, 2020
-* China National Scholarship, 2019
-* First Prize in the Hebei Provincial Mathematics Competition, 2017
