@@ -54,14 +54,6 @@ News
 
 Publications
 ------
-  <!--
-* **Under Review**
-1. **Zheming Yang**, Wen Ji, Qi Guo, Dieli Hu, Chang Zhao, Xiaowei Li, Xuanlei Zhao, Yi Zhao, Chaoyu Gong, and Yang You. “CDIO: Cross-Domain Inference Optimization with Resource Preference Prediction for Edge-Cloud Collaboration”. <font color=Blue>arXiv preprint arXiv:2502.04078</font>. [[PDF](https://arxiv.org/abs/2502.04078)]
-2. **Zheming Yang**, Yuanhao Yang, Chang Zhao, Qi Guo, Wenkai He, and Wen Ji. “PerLLM: Personalized Inference Scheduling with Edge-Cloud Collaboration for Diverse LLM Services”. <font color=Blue>arXiv preprint arXiv:2405.14636</font>. [[PDF](https://arxiv.org/abs/2405.14636)]
-3. Xuanlei Zhao, Shenggan Cheng, Chang Chen, Zangwei Zheng, Ziming Liu, **Zheming Yang**, and Yang You. “DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers”.  <font color=Blue>arXiv preprint arXiv:2403.10266</font>. [[PDF](https://arxiv.org/abs/2403.10266)]
-4. Yi Zhao, Juepeng Zheng, Guowen Li, Yushan Lai, Kangrui Du, Lixian Zhang, Runmin Dong, Jinxiao Zhang, Mengxuan Chen, Wayne Zhang, Litong Feng, **Zheming Yang**, Chaoyu Gong, Yang You, and Haohuan Fu. “Learning Global Land Cover Mapping Through a Highly-Scalable Weakly-Supervised Method”.
-5. Wenkai He, Xiaqing Li, Peiyi Han, Rui Zhang, Yifan Hao, Yuanbo Wen, **Zheming Yang**, Xing Hu, Zidong Du, and Qi Guo. “GM<sup>2</sup>: Generalizing Pre-Routing Static Timing Analysis Across Multiple Design Modes by Incorporating Customized Features”.
--->
 
 * **Selected Published**
 1. Xuanlei Zhao, Shenggan Cheng, Chang Chen, Zangwei Zheng, Ziming Liu, **Zheming Yang**, and Yang You. “DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers”.  <font color=Blue>International Conference on Machine Learning (ICML)</font>, 2025. [[PDF](https://arxiv.org/abs/2403.10266)]
