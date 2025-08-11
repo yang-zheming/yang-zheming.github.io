@@ -29,7 +29,7 @@ Research Interests
 * End-Edge-Cloud Collaborative Computing
 * Design of Efficient Machine Learning System
 * LLM Inference Optimization
-* MLM for Video Analysis
+* Multimodal LLM for Video Analysis
 
 
 Education
