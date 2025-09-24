@@ -45,7 +45,7 @@ News
 ------
 * **[2025.09]**:  🎉🎉 I have been invited to serve as the <font color=Blue>Area Chair for ICLR 2026</font>!.
 * **[2025.09]**:  🎉🎉 Our paper *"SpaceServe: Spatial Multiplexing of Complementary Encoders and Decoders for Multimodal LLMs"* has been accepted by  <font color=Blue>NeurIPS 2025</font>!
-* * **[2025.05]**:  🎉🎉 Our paper *"DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers"* has been accepted by  <font color=Blue>ICML 2025</font>!
+* **[2025.05]**:  🎉🎉 Our paper *"DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers"* has been accepted by  <font color=Blue>ICML 2025</font>!
 * **[2024.11]**:  🎉🎉 Our paper *"MSBA: Adaptive Multi-Stream Data Transmission Method with Bandwidth Awareness for End-Cloud Systems"*  won the **<font color=Blue>IFTC Best Paper Award</font>**!
 * **[2024.02]**:  🎉🎉 Our paper *"Adaptive Joint Configuration Optimization for Collaborative Inference in Edge-Cloud Systems"* has been accepted by  <font color=Blue>Science China-Information Sciences</font>!
 * **[2023.07]**:  🎉🎉 Our paper *"JAVP: Joint-Aware Video Processing with Edge-Cloud Collaboration for DNN Inference"* has been accepted by  <font color=Blue>ACM MM 2023</font>!
