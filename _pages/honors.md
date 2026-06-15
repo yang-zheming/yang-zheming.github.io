@@ -10,6 +10,7 @@ author_profile: true
 Honors and Awards
 ===
 * CCF Award for Technological Progress, 2025
+* Jiangsu Provincial Artificial Intelligence Application Innovation Award, 2025
 * IFTC Best Paper Award, 2024
 * CCF HPC China Outstanding Paper Award, 2024
 * China National Scholarship, 2024
